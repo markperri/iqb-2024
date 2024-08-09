@@ -4,6 +4,8 @@ channels:
   - defaults
 dependencies:
   - jupyterhub=2.1.1
+  - jupyterlab=4.2.4
+  - notebook=6.4.11
   - python=3.11
   - pip
   - pandas
